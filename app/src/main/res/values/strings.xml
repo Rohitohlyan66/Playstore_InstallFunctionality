@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Playstore_Buttons</string>
+    <string name="open">Open</string>
+    <string name="Install">Install</string>
+    <string name="Uninstall">Uninstall</string>
+    <string name="cancel">Cancel</string>
+</resources>
